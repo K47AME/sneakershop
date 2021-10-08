@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d6a501c.chunk.css",
-    "main.js": "/static/js/main.fd48ad7d.chunk.js",
-    "main.js.map": "/static/js/main.fd48ad7d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c1eb0cfe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c1eb0cfe.js.map",
-    "static/css/2.1cdcfe91.chunk.css": "/static/css/2.1cdcfe91.chunk.css",
-    "static/js/2.a74c016d.chunk.js": "/static/js/2.a74c016d.chunk.js",
-    "static/js/2.a74c016d.chunk.js.map": "/static/js/2.a74c016d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.1cdcfe91.chunk.css.map": "/static/css/2.1cdcfe91.chunk.css.map",
-    "static/css/main.4d6a501c.chunk.css.map": "/static/css/main.4d6a501c.chunk.css.map",
-    "static/js/2.a74c016d.chunk.js.LICENSE.txt": "/static/js/2.a74c016d.chunk.js.LICENSE.txt"
+    "main.css": "/sneakershop/static/css/main.4d6a501c.chunk.css",
+    "main.js": "/sneakershop/static/js/main.fd48ad7d.chunk.js",
+    "main.js.map": "/sneakershop/static/js/main.fd48ad7d.chunk.js.map",
+    "runtime-main.js": "/sneakershop/static/js/runtime-main.33a4a8f8.js",
+    "runtime-main.js.map": "/sneakershop/static/js/runtime-main.33a4a8f8.js.map",
+    "static/css/2.1cdcfe91.chunk.css": "/sneakershop/static/css/2.1cdcfe91.chunk.css",
+    "static/js/2.a74c016d.chunk.js": "/sneakershop/static/js/2.a74c016d.chunk.js",
+    "static/js/2.a74c016d.chunk.js.map": "/sneakershop/static/js/2.a74c016d.chunk.js.map",
+    "index.html": "/sneakershop/index.html",
+    "static/css/2.1cdcfe91.chunk.css.map": "/sneakershop/static/css/2.1cdcfe91.chunk.css.map",
+    "static/css/main.4d6a501c.chunk.css.map": "/sneakershop/static/css/main.4d6a501c.chunk.css.map",
+    "static/js/2.a74c016d.chunk.js.LICENSE.txt": "/sneakershop/static/js/2.a74c016d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1eb0cfe.js",
+    "static/js/runtime-main.33a4a8f8.js",
     "static/css/2.1cdcfe91.chunk.css",
     "static/js/2.a74c016d.chunk.js",
     "static/css/main.4d6a501c.chunk.css",
