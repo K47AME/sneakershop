@@ -1,6 +1,6 @@
 # sneakershop
 
-Link to [page](https://yond4ime.github.io/sneakershop/)
+Link to [page](https://k47ame.github.io/sneakershop/)
 
 Online-store for @sneakershop_astana on React
 
