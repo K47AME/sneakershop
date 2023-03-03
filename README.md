@@ -1,6 +1,6 @@
 # sneakershop
 
-Link to [page](https://hadaka-jime.github.io/sneakershop/)
+Link to [page](https://amiradin.github.io/sneakershop/)
 
 Online-store for @sneakershop_astana on React
 
